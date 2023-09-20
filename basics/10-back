@@ -1,2 +1,3 @@
 #!/bin/bash
-cd =$(pwd)  
+/tmp/ =$(pwd)
+cd my-first-directory 

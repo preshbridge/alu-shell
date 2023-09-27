@@ -1,2 +1,2 @@
 #!/bin/bash
-touch ls cd rm*
+touch ls rm*

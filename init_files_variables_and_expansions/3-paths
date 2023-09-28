@@ -1,0 +1,2 @@
+#!/bin/bnash
+echo $PATH | tr ':' '\n' | wc -1

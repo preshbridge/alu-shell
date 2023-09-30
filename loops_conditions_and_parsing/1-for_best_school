@@ -1,3 +1,12 @@
-#!/bin/bash
-this script displays "Best School" 10 times
-./l-for_best_school
+@@ -0,0 +1,7 @@
+#!/usr/bin/env bash
+#This script is displaying "Best School" 10 times
+
+for _ in {1..10}
+do
+	echo "Best School"
+done
+ 1 change: 1 addition & 0 deletions1  
+ loops_conditions_and_parsing/README.md
+ @@ -0,0 +1 @@
+ loops conditionsand parsing

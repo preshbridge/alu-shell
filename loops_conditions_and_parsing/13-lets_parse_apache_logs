@@ -1,5 +1,5 @@
- #!/usr/bin/env bash
-#Replace this text with your comment
+#!/usr/bin/env bash
+#Replace this comment with your comment
 log_file="apache-access.log"
 
 if [ -e "$log_file" ]; then

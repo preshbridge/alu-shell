@@ -1,11 +1,15 @@
 #!/usr/bin/env bash
-#This script is displaying "Best School" 10 times
+# This script is displaying "Best School" 10 times using a while loop
 
-for _ in {1..10}
-do
+count=0 
+while [ $count -lt 10 ]; do
 	echo "Best School"
+	count=$((count+1))
+done#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times using a while loop
+
+count=0 
+while [ $count -lt 10 ]; do
+	echo "Best School"
+	count=$((count+1))
 done
- 1 change: 1 addition & 0 deletions1  
- loops_conditions_and_parsing/README.md
- @@ -0,0 +1 @@
- loops conditionsand parsing

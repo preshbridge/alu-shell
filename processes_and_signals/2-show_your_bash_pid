@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# display line containing the bash word
+ps -aux | grep bash

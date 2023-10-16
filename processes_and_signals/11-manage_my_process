@@ -28,6 +28,8 @@ if [[ "$#" == "1" ]]; then
 else
   echo "Usage: manage_my_process {start|stop|restart}"
 fi
+#!/usr/bin/env bash
+#a Bash script that:
 
 Creates the file /var/run/myscript.pid containing its PID
 Displays To infinity and beyond indefinitely
